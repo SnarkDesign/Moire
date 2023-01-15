@@ -1,4 +1,4 @@
-Moire Program
+#Moire Program
 
 C code to draw a Moire program for any given size screen.
 
