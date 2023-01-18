@@ -203,7 +203,7 @@ else{
 
 
     // Colour changing state machine
-    for (int i = 0; i < IWIDTH; i++) {
+  //  for (int i = 0; i < IWIDTH; i++) {
      // img.drawLine(i, 0, img.height(), colour);
       switch (state) {
         case 0:
@@ -250,7 +250,7 @@ else{
           break;
       }
       colour = red << 11 | green << 5 | blue;
-    }
+ //   }
     Serial.println(colour);
 //Heltec.display->drawLine(ix, jy, px, qy);
 img.drawLine(ix, jy, px, qy, colour);

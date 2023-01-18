@@ -1,5 +1,8 @@
+v1.1
+- color fixed
+
 v1 
-based on Sprite_TFT_Rainbow.ino
+adapted from Sprite_TFT_Rainbow.ino
 from the examples code in 
 https://github.com/Xinyuan-LilyGO/TTGO-T-Display
 
