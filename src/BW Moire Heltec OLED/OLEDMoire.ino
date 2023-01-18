@@ -23,7 +23,7 @@
   // deltas moves up or down
   // moves up each point independently 
   // 
-  if 1 or down if 0
+ // up if 1 or down if 0
   uint8_t ixdelta, jydelta, pxdelta, qydelta;
 
   // line color swap - every other line is black or white
@@ -135,7 +135,7 @@ Heltec.display->display();
 }
 
 
-}
+
 
 void setup() {
   Heltec.begin(true /*DisplayEnable Enable*/, false /*LoRa Disable*/, true /*Serial Enable*/);
