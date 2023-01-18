@@ -2,7 +2,11 @@
 
 C code to draw a Moire program for any given size screen.
 
-Code is adapted for the Heltec esp32 wifi kit OLED. 
+Writen from scratch. 
+
+Code is adapted for BW version of the Heltec esp32 wifi kit OLED. 
+Color version adapted to the ttgo Lily LED. Color routine adapted from their example codes.
+
 
 Based on the old Applesoft Moire program that came with the Apple ][ diskette.
 Yes, you could also know it from the ScreenSaver programs of old times and it was also a motivation to do this program as Arduino LED screen components might also suffer from burned in pixels always displaying  the same screen when unused... 
