@@ -1,4 +1,4 @@
-# Just Another Moire Program Screensaver for the Arduino
+### Just Another Moire Program Screensaver for the Arduino
 
 ![](/img/20230115_164808.jpg)
 
