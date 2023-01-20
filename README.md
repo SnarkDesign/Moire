@@ -1,5 +1,7 @@
 #Moire Program
 
+![](/img/20230115_164808.jpg)
+
 C code to draw a Moire program for any given size screen.
 
 Writen from scratch. 
