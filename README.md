@@ -4,18 +4,22 @@
 
 C code to draw a Moire program for any given size screen.
 
-Writen from scratch. 
+There's a BW and a color version.
+
+The line drawing is writen from scratch - like an ant walk. 
+The color choosing algorithm is from the Liligo Library example code - until i make my own. 
 
 Code is adapted for BW version of the Heltec esp32 wifi kit OLED. 
 Color version adapted to the ttgo Lily LED. Color routine adapted from their example codes.
 
 
-Based on the old Applesoft Moire program that came with the Apple ][ diskette.
-Yes, you could also know it from the ScreenSaver programs of old times and it was also a motivation to do this program as Arduino LED screen components might also suffer from burned in pixels always displaying  the same screen when unused... 
+Based on the old Applesoft Moire program that came with the Apple 2 floppy diskette.
+Circa 1978, I couldnt find the original code so i wrote it from scratch. 
 
-Since i didn't have the old Apply ][ diskette or managed to find the code on the net, I decided to write it from scratch. 
+I didn't add all the Mac BW Moire extension (start up plug in) like geometry shapes and trails. 
+But it's a possible adventure...
 
-Lots of variations can be added to this code but I like this one for its simplicity and the many different patterns - pseudo fractal /diffusion/grating progression and like the game of life patterns appear. 
+Lots of variations can be added to this code but I like this one for its simplicity and the many different patterns - pseudo fractal /diffusion/grating progression and like the game of life patterns that appear (in the BW version). 
 
 Author: Xavier Bury
 Copyright 2023
