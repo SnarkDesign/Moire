@@ -24,7 +24,8 @@
 #include <TFT_eSPI.h> // Graphics and font library
 #include <SPI.h>
 
-TFT_eSPI tft = TFT_eSPI();  // Invoke library, pins defined in User_Setup.h
+TFT_eSPI tft = TFT_eSPI();  // Invoke library, pins defined in 
+#include <User_Setup.h>
 
 TFT_eSprite img = TFT_eSprite(&tft);
 
@@ -56,7 +57,7 @@ void setup(void) {
 
   img.createSprite(IWIDTH, IHEIGHT);
   img.fillSprite(TFT_BLACK);
-
+Serial.println("Initialized");
   targetTime = millis() + 1000;
 }
 
