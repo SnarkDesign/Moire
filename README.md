@@ -6,7 +6,7 @@ There's a BW version
 ![](/img/20230115_164808.jpg)
 
 and a color version.
-![](/img/20230205_080853.jpg.jpg)
+![](/img/20230205_080853.jpg)
 
 The line drawing is writen from scratch - like an ant walk. 
 The color choosing algorithm is from the Liligo Library example code - until i make my own. 
