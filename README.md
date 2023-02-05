@@ -1,7 +1,5 @@
 ### Just Another Moire Program Screensaver for the Arduino
 
-![](/img/20230115_164808.jpg)
-
 C code to draw a Moire program for any given size screen.
 
 There's a BW version
